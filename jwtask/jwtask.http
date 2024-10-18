@@ -1,0 +1,6 @@
+@jwtask_HostAddress = http://localhost:5105
+
+GET {{jwtask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
